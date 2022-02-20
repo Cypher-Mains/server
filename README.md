@@ -7,3 +7,5 @@
 4. Type npm install or npm i
 5. After installing type npm start.
 6. Now your server is started at port 3200. link: http://localhost:3200/
+
+# Dont make any change here. Fork this repo to get started.
